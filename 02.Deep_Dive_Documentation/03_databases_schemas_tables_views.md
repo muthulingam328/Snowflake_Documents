@@ -1,7 +1,7 @@
 # 3. Databases, Schemas, Tables & Views
 
 ![Databases, Schemas, Tables &
-Views](03_databases_schemas_tables_views.png)
+Views & Stages](03_databases_schemas_tables_views.png)
 
 ## Introduction
 
